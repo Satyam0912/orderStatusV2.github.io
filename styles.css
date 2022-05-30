@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.main-heading {
+    margin: 10px;
+}
+
+.order-id-input {
+    margin: 20px 0;
+}
+
+.btn-parent {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.order-block {
+    margin: 20px 0;
+}
